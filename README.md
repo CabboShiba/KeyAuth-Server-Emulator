@@ -46,6 +46,10 @@ Telegram: https://t.me/cabboshiba
 
 Repostory and Bypass under License GNU General Public License, version 3 (GPLv3).
 
+Please, if you want to Re-Create this project or this idea, give me credit:
+ 
+https://github.com/CabboShiba
+
 Made by Cabbo on 21-08-2022.
 
 
