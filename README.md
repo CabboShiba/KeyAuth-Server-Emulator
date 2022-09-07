@@ -9,11 +9,11 @@ With this LocalHost Server (C#), you can emulate every features from KeyAuth Ori
 
 KeyAuth Loader > HTTP Request > HTTP Request intercepted and tampered by my Server > Response Emulation > Response Crypting > Sending fake response > De-Crypting Response > Positive Response > Success : True. 
 
-That's not a real bypass, as I only emulate the real KeyAuth Server with the Application Secret. 
+That's not a real bypass, as I only emulate the real KeyAuth Server.
 For this, you need Application Secret, which can be bruteforced with an integrated BruteForce-System during InitIV Request. 
 
 Info about Application Secret: 
-Application Secret is a 64-Length String. You can grab it from Process Hacker 2,ad after BruteForce it. 
+Application Secret is a 64-Length String. You can grab it from Process Hacker 2, ad after BruteForce it. 
 
 Obfuscators like VMProtect 3.6.0 (Max settings. Virtualization enabled) or .NET Reactor 6.8.0 (Max settings. Virtualization enabled) can not stop this process, or hide the Secret. 
 
