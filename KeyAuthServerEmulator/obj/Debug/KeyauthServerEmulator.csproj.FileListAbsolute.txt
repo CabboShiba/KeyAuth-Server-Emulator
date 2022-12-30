@@ -1,0 +1,8 @@
+C:\Users\stefa\OneDrive\Desktop\Bypass & Projects\KeyauthServerEmulator\KeyauthServerEmulator\bin\Debug\KeyAuthServerEmulator.exe.config
+C:\Users\stefa\OneDrive\Desktop\Bypass & Projects\KeyauthServerEmulator\KeyauthServerEmulator\bin\Debug\KeyAuthServerEmulator.exe
+C:\Users\stefa\OneDrive\Desktop\Bypass & Projects\KeyauthServerEmulator\KeyauthServerEmulator\bin\Debug\KeyAuthServerEmulator.pdb
+C:\Users\stefa\OneDrive\Desktop\Bypass & Projects\KeyauthServerEmulator\KeyauthServerEmulator\obj\Debug\KeyauthServerEmulator.csproj.AssemblyReference.cache
+C:\Users\stefa\OneDrive\Desktop\Bypass & Projects\KeyauthServerEmulator\KeyauthServerEmulator\obj\Debug\KeyauthServerEmulator.csproj.SuggestedBindingRedirects.cache
+C:\Users\stefa\OneDrive\Desktop\Bypass & Projects\KeyauthServerEmulator\KeyauthServerEmulator\obj\Debug\KeyauthServerEmulator.csproj.CoreCompileInputs.cache
+C:\Users\stefa\OneDrive\Desktop\Bypass & Projects\KeyauthServerEmulator\KeyauthServerEmulator\obj\Debug\KeyAuthServerEmulator.exe
+C:\Users\stefa\OneDrive\Desktop\Bypass & Projects\KeyauthServerEmulator\KeyauthServerEmulator\obj\Debug\KeyAuthServerEmulator.pdb
