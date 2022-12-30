@@ -2,6 +2,8 @@
 
 With this LocalHost Server (C#), you can emulate almost every features from KeyAuth Original Client. It uses API V1.0.
 
+**IT IS NOT A BYPASS**
+
 # How it works
 
 - First of all, it will intercepts https://KeyAuth.Win/api/1.0 Requests from a Program.
