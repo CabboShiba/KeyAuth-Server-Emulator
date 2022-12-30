@@ -8,15 +8,17 @@ It intercept KeyAuth.Win Requests from a Program.
 
 After, it decrypts the Secret through a list of Strings provided by the user (if you already know the secret, you can use it, without using the bruteforcer).
 
+Once you have obtained the secret, you will be able to get also the EncKey, stored in the Init Request.
+
 Info about Application Secret: 
 
-Application Secret is a 64-Length String. You can grab it from Process Hacker 2, and after bruteforce it. 
+- Application Secret is a 64-Length String. You can grab it from Process Hacker 2, and after bruteforce it. 
 
-Obfuscators like VMProtect 3.6.0 (Max settings. Virtualization enabled) or .NET Reactor 6.8.0 (Max settings. Virtualization enabled) can not stop this process, or hide the Secret.
+- Obfuscators like VMProtect 3.6.0 (Max settings. Virtualization enabled) or .NET Reactor 6.9.0 (Max settings. Virtualization enabled) can not stop this process, or hide the Secret.
 
 **IS THAT A BYPASS?**
 
-Absolutely NO. This program IS NOT a KeyAuth Bypass, as its purpose is only to emulate the KeyAuth Server, and this can be done by every program, or even manually!
+Absolutely NO. This program **IS NOT** a KeyAuth Bypass, as its purpose is only to emulate the KeyAuth Server, and this can be done by every program, or even manually!
 
 So please, do not call my Emulator, a "Bypass", because you would spread false informations.
 
