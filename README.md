@@ -74,7 +74,7 @@ Do you want to contact me?
 
 Discord: FreeCabbo11#9191 - Use Telegram, I get banned very often.
 
-If you do not gey an answer on Discord for 48 Hours, this means I got banned. Contact me on Telegram.
+If you do not get an answer on Discord for 48 Hours, this means I got banned. Contact me on Telegram.
 
 Telegram: https://t.me/cabboshiba
 
