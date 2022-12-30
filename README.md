@@ -16,10 +16,16 @@ With this LocalHost Server (C#), you can emulate almost every features from KeyA
 
 - Download Fiddler [Here](https://www.telerik.com/download/fiddler/).
 - Install the Certificate to decrypt SSL.
-- Create a new rule like this: ![image](https://user-images.githubusercontent.com/92642446/210103619-184aee63-0e0f-49ac-b866-917f7de17704.png)
+- Create a new rule like this: 
+
+![image](https://user-images.githubusercontent.com/92642446/210103619-184aee63-0e0f-49ac-b866-917f7de17704.png)
+
 - Check "Unmatched requests passthrough" and "Enable Rules"
 - Run your Application.
-- Open Process Hacker and grab strings from memory with this params: ![image](https://user-images.githubusercontent.com/92642446/210103715-9f031a40-b9fa-4ac2-aebe-0c7da08dded7.png)
+- Open Process Hacker and grab strings from memory with this params:
+
+![image](https://user-images.githubusercontent.com/92642446/210103715-9f031a40-b9fa-4ac2-aebe-0c7da08dded7.png)
+
 - Save the strings in the ServerEmulator with the name Strings.txt
 - Start the Emulator, and after your Program.
 
