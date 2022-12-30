@@ -53,7 +53,7 @@ Init and Check requests intercepted and tampered by my LocalHost Server.
 
 Client:
 
-![client](https://user-images.githubusercontent.com/92642446/210104237-4c3116ce-969d-4efb-a738-4bc9e98a9787.png)
+![client](https://user-images.githubusercontent.com/92642446/210105038-43e141db-1649-47ac-9c0e-6c16d54c190a.jpg)
 
 # Emulator Release
 
@@ -84,8 +84,20 @@ Made by Cabbo on 21-08-2022.
 
 # Donations
 
-This project will probably get patched in some days/weeks. i'll do my best to do a 0Day.
+This project will probably get patched in some days/weeks. I'll do my best to do a new 0Day.
 
 If you can, I'd really appreciate some donations:
 
-- BTC: 
+- BTC: *bc1q0x2jne24kyg8jhcuns9xdd7smwxqwknzz0qn4g*
+- ETH: *0xF1bfba01160281Ec1bB11c9adBf36C9fc2478A1F*
+- LTC: *LgwW18eQpYJywWxz1vb8JkFtyhX2ezEag7*
+- SOL: *FVhWczmtvRd7oxdEpZqKBqUHABR6wkihXpAJmcsJhsPw*
+- USDC on ETH NetWork: *0xF1bfba01160281Ec1bB11c9adBf36C9fc2478A1F*
+- MONERO: *49K92AFva9EabaMezpEqko7MzJLbkRfMq8Uki6WcMjV6Vn6AH8dcPGoFPQ1N2mpSnmLQ6Mw1MNinoAbbQz46eLhj9XnJepE*
+- BTC Cash: *qqqvfqsls7tdrpktq6kax2sudl4zeg828uhrvev92a*
+- BNB on BNB NetWork: *bnb1vf25nj8y6sft8ykflhd7rkwkewramxm3qczfh2*
+- XRP: *raGi2w3mYMAaajLrFTXbhwE6BSRDxvYz1n*
+- DOGE: *DPAC6a1wAPaMgF2uogSrXqEGNkzi5hdJ19*
+- DOT: *12Jk63p5rWxPfHXZQgoUcat48uYVcAhNxiykCZ51LYB7cBK1*
+- NANO: *nano_34uibzchxh6a6di6ayhwoaekh678bsscb7hcgepqrhgs7ay4csp8kfz4xjke*
+- CRO on ETH NetWork: *0xF1bfba01160281Ec1bB11c9adBf36C9fc2478A1F*
