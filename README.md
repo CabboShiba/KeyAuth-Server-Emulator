@@ -1,50 +1,48 @@
-# Keyauth-Server-Emulator
-Original meant as bypass, I tought it was better to define it a "Server Emulator". By Cabbo 
+# KeyAuthServerEmulator
 
-# Emulator
-
-With this LocalHost Server (C#), you can emulate every features from KeyAuth Original Client. 
+With this LocalHost Server (C#), you can emulate almost every features from KeyAuth Original Client. 
 
 # How it works
 
-KeyAuth Loader > HTTP Request > HTTP Request intercepted and tampered by my Server > Response Emulation > Response Crypting > Sending fake response > De-Crypting Response > Positive Response > Success : True. 
+It intercept KeyAuth.Win Requests from a Program.
 
-That's not a real bypass, as I only emulate the real KeyAuth Server.
-For this, you need Application Secret, which can be bruteforced with an integrated BruteForce-System during InitIV Request. 
+After, it decrypts the Secret through a list of Strings provided by the user (if you already know the secret, you can use it, without using the bruteforcer).
 
 Info about Application Secret: 
-Application Secret is a 64-Length String. You can grab it from Process Hacker 2, ad after BruteForce it. 
 
-Obfuscators like VMProtect 3.6.0 (Max settings. Virtualization enabled) or .NET Reactor 6.8.0 (Max settings. Virtualization enabled) can not stop this process, or hide the Secret. 
+Application Secret is a 64-Length String. You can grab it from Process Hacker 2, and after bruteforce it. 
 
-# Info
+Obfuscators like VMProtect 3.6.0 (Max settings. Virtualization enabled) or .NET Reactor 6.8.0 (Max settings. Virtualization enabled) can not stop this process, or hide the Secret.
 
-Realized on 21-08-2022, and published on this repository: https://github.com/CabboShiba/KeyAuth-HTTP-Bypass
+**IS THAT A BYPASS?**
 
-Decided to move it in a new repository. 
+Absolutely NO. This program IS NOT a KeyAuth Bypass, as its purpose is only to emulate the KeyAuth Server, and this can be done by every program, or even manually!
+
+So please, do not call my Emulator, a "Bypass", because you would spread false informations.
 
 # ShowCase
 
+![emulator](https://user-images.githubusercontent.com/92642446/210102458-27a0d288-02a8-4275-8d64-2c987c2a5175.png)
 
-![image](https://user-images.githubusercontent.com/92642446/188995437-793b3569-3a15-4b8b-bfdd-eeebab11a5bb.png)
-
-Init and Login request intercepted and tampered by my LocalHost Server.
+Init and Check requests intercepted and tampered by my LocalHost Server.
 
 # Emulator Release
 
-Never lmao, skids would really abuse of it as it's really easy to use and really powerful. 
+Source Code released on 30/12/2022.
 
 # Contact Me
 
 Do you want to contact me? 
 
-Discord: FreeCabbo10#6558
+Discord: FreeCabbo11#9191 - Use Telegram, I get banned very often.
 
 Telegram: https://t.me/cabboshiba
 
 # License 
 
 Repostory and Bypass under License GNU General Public License, version 3 (GPLv3).
+
+You are not allowed to resell the program, or the source sode.
 
 Please, if you want to Re-Create this project or this idea, give me credit:
  
