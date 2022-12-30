@@ -1,10 +1,10 @@
 # KeyAuthServerEmulator
 
-With this LocalHost Server (C#), you can emulate almost every features from KeyAuth Original Client. 
+With this LocalHost Server (C#), you can emulate almost every features from KeyAuth Original Client. It uses API V1.0.
 
 # How it works
 
-- First of all, it will intercepts KeyAuth.Win Requests from a Program.
+- First of all, it will intercepts https://KeyAuth.Win/api/1.0 Requests from a Program.
 
 - After, it bruteforces the Secret through a list of Strings provided by the user (if you already know the secret, you can use it, without using the bruteforcer).
 
