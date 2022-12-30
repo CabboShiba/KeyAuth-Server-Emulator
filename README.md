@@ -1,4 +1,4 @@
-# KeyAuthServerEmulator
+# KeyAuthServerEmulator - DROP STAR AND FOLLOW TO SUPPORT ME
 
 **THIS IS NOT A BYPASS!**
 
