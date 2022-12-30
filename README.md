@@ -1,8 +1,12 @@
 # KeyAuthServerEmulator
 
-With this LocalHost Server (C#), you can emulate almost every features from KeyAuth Original Client. It uses API V1.0.
+** THIS IS NOT A BYPASS!**
 
-**IT IS NOT A BYPASS**
+With this LocalHost Server (C#), you can emulate almost every features from https://KeyAuth.Win Original Client. It uses API V1.0.
+
+I Wrote this code some months ago, and it is not perfect. It can be greatly optimized, but due to lack of time/interest I will not do it. 
+
+I need help for some functions, so if you are interested in the project, do not hesitate to contact me.
 
 # How it works
 
