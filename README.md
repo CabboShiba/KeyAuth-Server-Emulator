@@ -51,6 +51,8 @@ Absolutely NO. This program **IS NOT** a KeyAuth Bypass, as its purpose is only 
 
 So please, do not call my Emulator, a "Bypass", because you would spread false informations.
 
+**THIS IS NOT THE SAME EMULATION AS KEYAUTH "BYPASSES". THE TERM EMULATION HERE REFERS TO "EMULATING" A PUBLIC SERVER BY USING THE SAME KEYAUTH APPLICATION INFORMATION TO MAKE THIS TOOL LOOKS LIKE IT IS THE SERVER. IT DOES NOT INTERACT WITH THE PROGRAM'S MEMORY IN ANY WAY.**
+
 [DMCA](https://github.com/CabboShiba/KeyAuth-Server-Emulator/blob/main/README.md#dmca-violations)
 
 # ShowCase
