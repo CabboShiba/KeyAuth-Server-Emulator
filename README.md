@@ -4,13 +4,13 @@ With this LocalHost Server (C#), you can emulate almost every features from KeyA
 
 # How it works
 
-1- First of all, it will intercepts KeyAuth.Win Requests from a Program.
+- First of all, it will intercepts KeyAuth.Win Requests from a Program.
 
-2- After, it bruteforces the Secret through a list of Strings provided by the user (if you already know the secret, you can use it, without using the bruteforcer).
+- After, it bruteforces the Secret through a list of Strings provided by the user (if you already know the secret, you can use it, without using the bruteforcer).
 
-3- Once you have obtained the secret, it will decrypt the EncKey, stored in the Init Request.
+- Once you have obtained the secret, it will decrypt the EncKey, stored in the Init Request.
 
-4- The emulator will send positive response for each request it receives. Some API Features, like fetchOnlineUser or KeyAuthDownload, are not supported.
+- The emulator will send positive response for each request it receives. Some API Features, like fetchOnlineUser or KeyAuthDownload, are not supported.
 
 Info about Application Secret: 
 
