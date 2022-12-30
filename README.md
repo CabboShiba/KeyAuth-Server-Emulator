@@ -49,7 +49,7 @@ Absolutely NO. This program **IS NOT** a KeyAuth Bypass, as its purpose is only 
 
 So please, do not call my Emulator, a "Bypass", because you would spread false informations.
 
-[DMCA](https://github.com/CabboShiba/KeyAuth-Server-Emulator/edit/main/README.md#dmca-violations)
+[DMCA](https://github.com/CabboShiba/KeyAuth-Server-Emulator/blob/main/README.md#dmca-violations)
 
 # ShowCase
 
