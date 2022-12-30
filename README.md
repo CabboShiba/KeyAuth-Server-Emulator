@@ -45,9 +45,15 @@ So please, do not call my Emulator, a "Bypass", because you would spread false i
 
 # ShowCase
 
+Emulator:
+
 ![emulator](https://user-images.githubusercontent.com/92642446/210102458-27a0d288-02a8-4275-8d64-2c987c2a5175.png)
 
 Init and Check requests intercepted and tampered by my LocalHost Server.
+
+Client:
+
+![client](https://user-images.githubusercontent.com/92642446/210104237-4c3116ce-969d-4efb-a738-4bc9e98a9787.png)
 
 # Emulator Release
 
@@ -76,4 +82,10 @@ https://github.com/CabboShiba
 
 Made by Cabbo on 21-08-2022.
 
+# Donations
 
+This project will probably get patched in some days/weeks. i'll do my best to do a 0Day.
+
+If you can, I'd really appreciate some donations:
+
+- BTC: 
