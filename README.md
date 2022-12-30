@@ -2,7 +2,7 @@
 
 **THIS IS NOT A BYPASS!**
 
-With this LocalHost Server (C#), you can emulate almost every features from https://KeyAuth.Win Original Client. It uses API V1.0.
+With this LocalHost Server (C#), you can emulate almost every features from https://KeyAuth.Win Original Server. It uses API V1.0.
 
 There are features that may not work (like Variables). I have not tested them for a long time.
 
