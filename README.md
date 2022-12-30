@@ -112,3 +112,11 @@ If you can, I'd really appreciate some donations:
 - DOT: *12Jk63p5rWxPfHXZQgoUcat48uYVcAhNxiykCZ51LYB7cBK1*
 - NANO: *nano_34uibzchxh6a6di6ayhwoaekh678bsscb7hcgepqrhgs7ay4csp8kfz4xjke*
 - CRO on ETH NetWork: *0xF1bfba01160281Ec1bB11c9adBf36C9fc2478A1F*
+
+# DMCA VIOLATIONS
+
+Does this projects violates DMCA? Absolutely not.
+
+**This program only show a method that can be done manually without any problem. It is basically a clone of the original KeyAuth Server. This can be done by everyone, and it does not interact with Process Memory.**
+
+**It does not modify programs in any way.**
