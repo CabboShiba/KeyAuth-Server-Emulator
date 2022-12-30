@@ -51,6 +51,9 @@ Init and Check requests intercepted and tampered by my LocalHost Server.
 
 Source Code released on 30/12/2022.
 
+I have decided to release it, because in the past months I've seen tons of skids asking for stupid help with KeyAuth. 
+All these "devs" have literally 0 knowledge about coding, or security. That's why I have decided to release it. I am 100% sure this project will not harm skilled developers, as they will be able to fix and patch it. I have many other methods, but for now I'll keep them private.
+
 # Contact Me
 
 Do you want to contact me? 
