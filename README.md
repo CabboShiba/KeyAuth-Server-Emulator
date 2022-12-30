@@ -1,16 +1,16 @@
 # KeyAuthServerEmulator
 
-** THIS IS NOT A BYPASS!**
+**THIS IS NOT A BYPASS!**
 
 With this LocalHost Server (C#), you can emulate almost every features from https://KeyAuth.Win Original Client. It uses API V1.0.
 
-I Wrote this code some months ago, and it is not perfect. It can be greatly optimized, but due to lack of time/interest I will not do it. 
+**I wrote this code some months ago, and it is not perfect. It can be greatly optimized, but due to lack of time/interest I will not do it.**
 
-I need help for some functions, so if you are interested in the project, do not hesitate to contact me.
+**I need help for some functions, so if you are interested in the project, do not hesitate to contact me.**
 
 # How it works
 
-- First of all, it will intercepts https://KeyAuth.Win/api/1.0 Requests from a Program.
+- First of all, it intercepts HTTP requests from https://KeyAuth.Win/api/1.0 .
 
 - After, it bruteforces the Secret through a list of Strings provided by the user (if you already know the secret, you can use it, without using the bruteforcer).
 
@@ -71,6 +71,8 @@ All these "devs" have literally 0 knowledge about coding, or security. That's wh
 Do you want to contact me? 
 
 Discord: FreeCabbo11#9191 - Use Telegram, I get banned very often.
+
+If you do not gey an answer on Discord for 48 Hours, this means I got banned. Contact me on Telegram.
 
 Telegram: https://t.me/cabboshiba
 
