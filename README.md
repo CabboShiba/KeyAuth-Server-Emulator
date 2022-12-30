@@ -12,6 +12,10 @@ With this LocalHost Server (C#), you can emulate almost every features from KeyA
 
 - The emulator will send positive response for each request it receives. Some API Features, like fetchOnlineUser or KeyAuthDownload, are not supported.
 
+# How can I use it?
+
+- Download Fiddler [Here[(https://www.telerik.com/download/fiddler).
+- 
 **Info about Application Secret:**
 
 - Application Secret is a 64-Length String. You can grab it from Process Hacker 2, and after bruteforce it. 
