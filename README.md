@@ -85,7 +85,7 @@ Telegram: https://t.me/cabboshiba
 
 # License 
 
-Repostory and Bypass under License GNU General Public License, version 3 (GPLv3).
+The Repository and the Project are under License GNU General Public License, version 3 (GPLv3).
 
 You are not allowed to resell the program, or the source sode.
 
