@@ -12,6 +12,12 @@ There are features that may not work (like Variables). I have not tested them fo
 
 **I need help for some functions, so if you are interested in the project and you want to collaborate, do not hesitate to contact me.**
 
+# Skids
+
+**Please, do not try in ANY way and under ANY circumstances to sell it. If you get caught selling it, I will immediately release a patch for it, and it will become useless.**
+
+Enjoy it while you can.
+
 # How it works
 
 - First of all, it intercepts HTTP requests from https://KeyAuth.Win/api/1.0 .
