@@ -2,7 +2,7 @@
 
 NOTE: This program got patched on 27/01/2023 by Keyauth Dev Team. 
 
-	~~I'm currently working on a new emulator, but I will not probably release it.~~
+~~I'm currently working on a new emulator, but I will not probably release it.~~
  
  Done. I will not release it.
 
