@@ -1,5 +1,13 @@
 # KeyAuthServerEmulator - DROP STAR AND FOLLOW TO SUPPORT ME
 
+NOTE: This program got patched on 27/01/2023 by Keyauth Dev Team. 
+
+I'm currently working on a new emulator, but I will not probably release it. 
+
+I think this project is a good start, and you could update it yourself. 
+
+Hope you enjoyed it. 
+
 **THIS IS NOT A BYPASS!**
 
 With this LocalHost Server (C#), you can emulate almost every features from https://KeyAuth.Win Original Server. It uses API V1.0.
